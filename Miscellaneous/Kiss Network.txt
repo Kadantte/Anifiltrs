@@ -17,3 +17,6 @@ kissanime.ru##div[style*='!important']
 kissanime.ru##[id=centerDivVideo]:style(margin-top:15px!important;)
 ! emtpy boxes
 kisshentai.net##a[href="#"]
+! RSS Feed
+kissanime.ru,kissmanga.com##div[style="float: left;"]
+kissanime.ru,kissmanga.com##div[style="float: left; padding-right: 10px"]
